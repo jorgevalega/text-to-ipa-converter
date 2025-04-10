@@ -23,7 +23,7 @@
 
 ## 📸 Screenshot
 
-![Text to IPA Converter Screenshot](https://your-screenshot-url.com)  
+![Text to IPA Converter Screenshot](https://raw.githubusercontent.com/jorgevalega/text-to-ipa-converter/main/assets/screenshot_01.jpg)  
 <sup>*(Optional: include a real screenshot once available)*</sup>
 
 ---
