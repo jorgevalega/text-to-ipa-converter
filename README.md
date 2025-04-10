@@ -25,7 +25,6 @@
 
 ![Text to IPA Converter Screenshot](assets/screenshot_01.jpg)
 ![Text to IPA Converter Screenshot](assets/screenshot_02.jpg)
-<sup>*(Optional: include a real screenshot once available)*</sup>
 
 ---
 
