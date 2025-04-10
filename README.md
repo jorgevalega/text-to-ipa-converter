@@ -39,3 +39,57 @@ Make sure you have **Python 3.8+** installed.
 ```bash
 git clone https://github.com/seu-usuario/text-to-ipa-converter.git
 cd text-to-ipa-converter
+```
+
+### 2. Create and activate a virtual environment (recommended)
+
+```bash
+python -m venv venv
+source venv/bin/activate    # On Windows: venv\Scripts\activate
+```
+
+### 3. Install the dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## ▶️ Usage
+
+Run the application with:
+
+```bash
+python main.py
+```
+
+Then enter English text in the input field, click **Convert to IPA**, and optionally click **Listen to Pronunciation** to hear it.
+
+---
+
+## 🧾 Dependencies
+
+- `customtkinter`
+- `eng_to_ipa`
+- `pyttsx3`
+
+All dependencies are listed in [`requirements.txt`](requirements.txt).
+
+---
+
+## 🧑‍💻 Author
+
+Developed by [Jorge Valega](https://github.com/jorgevalega) – passionate about automation, accessibility, and language learning tools.
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ☕ Support
+
+If you find this project useful, feel free to give it a ⭐️ on GitHub or share it with others!
