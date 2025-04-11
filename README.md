@@ -37,7 +37,7 @@ Make sure you have **Python 3.8+** installed.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/seu-usuario/text-to-ipa-converter.git
+git clone https://github.com/jorgevalega/text-to-ipa-converter.git
 cd text-to-ipa-converter
 ```
 
