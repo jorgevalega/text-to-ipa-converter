@@ -14,7 +14,7 @@ def configure_english_voice():
         if 'en' in voice.languages or 'English' in voice.name:
             engine.setProperty('voice', voice.id)
             break
-    engine.setProperty('rate', 150)  # Adjust speech rate (default is usually around 200)
+    engine.setProperty('rate', 120)  # Adjust speech rate (default is usually around 200)
 
 configure_english_voice()
 
