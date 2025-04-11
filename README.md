@@ -7,8 +7,8 @@
 ## 🌍 Available Languages
 
 - 🇬🇧 English – *You are here*
-- 🇧🇷 [Versão em Português](https://github.com/seu-usuario/conversor-de-texto-para-ipa)
-- 🇪🇸 [Versión en Español](https://github.com/seu-usuario/convertidor-de-texto-a-ipa)
+- 🇧🇷 [Versão em Português](https://github.com/jorgevalega/conversor-de-texto-para-ipa)
+- 🇪🇸 [Versión en Español](https://github.com/jorgevalega/convertidor-de-texto-a-ipa)
 
 ---
 
